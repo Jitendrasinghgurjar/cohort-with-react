@@ -1,6 +1,6 @@
 // import React from 'react'
 
-// const App = () => {
+// // const App = () => {
 //   let n = 12
 //   let s = "jitendra singh gurjar"
 //   let b = true
@@ -23,12 +23,12 @@
 //   )
 // }
 
-// export default App
+// // // export default App
 
 
-// import React from 'react'
+// // import React from 'react'
 
-// const App = () => {
+// // const App = () => {
 //   const profiles = [
 //     {name: "jitu",age:16},
 //     {name: "sachin", age: 90},
