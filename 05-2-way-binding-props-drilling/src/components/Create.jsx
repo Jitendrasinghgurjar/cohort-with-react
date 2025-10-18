@@ -19,7 +19,10 @@ const Create = () => {
        
       <form onSubmit={submitHandler}>
       <input onChange={changeHandler} value={fullname} type="text" placeholder='fullname' />
+      <br /><br />
       <input type="number" placeholder='age' />
+      <br />
+      <br />
       <button>submit</button>
       </form>   
     </div>
