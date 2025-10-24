@@ -33,7 +33,7 @@ const buttoncss = {
         <br />
     
 
-        <button className='text-xl px-10 py-2 border rounded mt-5'>Create todo</button>
+        <button className='text-xl px-10 py-2 border rounded mt-5 bg-blue-100'>Create todo</button>
 
         </form>
         </div>
